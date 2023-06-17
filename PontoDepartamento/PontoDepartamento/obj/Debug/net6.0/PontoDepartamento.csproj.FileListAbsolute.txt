@@ -1,0 +1,17 @@
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\bin\Debug\net6.0\PontoDepartamento.exe
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\bin\Debug\net6.0\PontoDepartamento.deps.json
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\bin\Debug\net6.0\PontoDepartamento.runtimeconfig.json
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\bin\Debug\net6.0\PontoDepartamento.dll
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\bin\Debug\net6.0\PontoDepartamento.pdb
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\obj\Debug\net6.0\PontoDepartamento.csproj.AssemblyReference.cache
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\obj\Debug\net6.0\PontoDepartamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\obj\Debug\net6.0\PontoDepartamento.AssemblyInfoInputs.cache
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\obj\Debug\net6.0\PontoDepartamento.AssemblyInfo.cs
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\obj\Debug\net6.0\PontoDepartamento.csproj.CoreCompileInputs.cache
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\obj\Debug\net6.0\PontoDepartamento.csproj.CopyComplete
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\obj\Debug\net6.0\PontoDepartamento.dll
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\obj\Debug\net6.0\refint\PontoDepartamento.dll
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\obj\Debug\net6.0\PontoDepartamento.pdb
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\obj\Debug\net6.0\PontoDepartamento.genruntimeconfig.cache
+C:\William\Novo teste de Dev (geral todos os níveis)\PontoDepartamento\PontoDepartamento\obj\Debug\net6.0\ref\PontoDepartamento.dll

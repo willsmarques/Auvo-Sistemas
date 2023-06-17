@@ -1,0 +1,86 @@
+﻿@model IEnumerable<Candidato.Models.Departamento>
+
+@{
+    ViewData["Title"] = "Departamento";
+}
+@foreach (var depart in Model)
+{
+    <p></p>
+    <div class="panel panel-primary">
+        <div>
+            <h8 class="text-success">
+                <ul>
+                    <li>Departamento: @depart.NomeDepartamento </li>
+                    <li>Mês/Ano: = @depart.MesVigencia/@depart.AnoVigencia</li>
+                    <li>Total Pagamento: @depart.TotalPagamento.ToString("F2")</li>
+                    <li> Total Descontos: @depart.TotalDescontos.ToString("F2")</li>
+                    <li> Total Extras: @depart.TotalExtras.ToString("F2")</li>
+
+                </ul>
+            </h8>
+        </div>
+        @foreach (var item in depart.Funcionarios)
+        {
+            <div lass="panel-body">
+                <table class="table table-striped table-hover">
+                    <thead>
+                        <tr class="success">
+                            <th>
+                                Nome
+                            </th>
+                            <th>
+                                Total Recebido
+                            </th>
+                            <th>
+                                Horas Extras
+                            </th>
+                            <th>
+                                Horas Debitos
+                            </th>
+                            <th>
+                                Dias Falta(s)
+                            </th>
+                            <th>
+                                Dias Extras
+                            </th>
+                            <th>
+                                Dias Trabalhados
+                            </th>
+                        </tr>
+
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Nome)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TotalReceber)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.HorasExtras)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.HorasDebito)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.DiasFalta)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.DiasExtras)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.DiasTrabalhados)
+                            </td>
+                    </tbody>
+                </table>
+
+            </div>
+        }
+    </div>
+
+}
+
+<div>
+    <a class="nav-link" asp-area="" asp-controller="Arquivos" asp-action="Index"><Index</a>
+</div>
